@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](image/6 pec.png)
+![alt text](https://github.com/mtdizzy/testing-New/blob/main/image/6%20pec.png)
 
 <!-- Add your details -->
 

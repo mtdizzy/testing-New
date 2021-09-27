@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/mtdizzy/testing-New/blob/main/image/traingle.JPG)
+![alt text](https://github.com/mtdizzy/testing-New/blob/87eb98a8e1e576d49b09271b934df648d9eddc97/image/traingle.JPG)
 
 <!-- Add your details -->
 

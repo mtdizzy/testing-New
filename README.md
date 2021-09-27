@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/mtdizzy/testing-New/blob/main/image/6%20pec.png)
+![alt text](https://github.com/mtdizzy/testing-New/blob/main/image/traingle.JPG)
 
 <!-- Add your details -->
 
